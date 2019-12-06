@@ -240,4 +240,4 @@ mvn clean install
 
 ### Test App
 
-[This test webapp](https://github.com/jberet/jsr352/tree/master/wildfly-jberet-samples/camelReaderWriter) uses all the features in jberet-camel.
+[The test webapp camelReaderWriter](https://github.com/jberet/jberet-wildfly-samples/tree/master/camelReaderWriter) uses all the features in jberet-camel.
